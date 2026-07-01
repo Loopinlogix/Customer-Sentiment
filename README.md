@@ -1,7 +1,7 @@
 # Customer-Sentiment
 Project Summary
 The IMDb Movie Reviews dataset contains 50,000 labeled reviews (positive/negative).
-Your analysis focuses on:
+analysis focuses on:
 
 Understanding dataset structure
 
