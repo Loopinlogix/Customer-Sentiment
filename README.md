@@ -16,11 +16,9 @@ Summarizing insights in a polished PDF report
 The notebook is fully commented to make the workflow easy to follow.
 
 📂 Repository Contents
-IMDB_Analysis.ipynb — Main Google Colab notebook
+IMDB_Analysis.ipynb
 
-IMDB Dataset.csv — Dataset used for analysis
-
-Report.pdf — Final PDF summarizing insights with charts and tables
+IMDB Dataset.csv 
 
 README.md — Project documentation
 
@@ -31,7 +29,7 @@ Upload the dataset if prompted
 
 Run each cell in order (the notebook includes clear explanations)
 
-Export your PDF report via:
+Export PDF report via:
 File → Print → Save as PDF
 
 If you encounter a missing‑file error, upload the dataset manually:
@@ -50,7 +48,7 @@ Review length histogram
 
 Sample tables of cleaned data
 
-These visuals help communicate insights quickly — ideal for recruiters reviewing your portfolio.
+These visuals help communicate insights quickly 
 
 🛠️ Tools & Technologies
 Python
